@@ -93,6 +93,46 @@ h3 ~ p{
   
 }
 
+.project-item .technology {
+  padding-left: 0;
+}
+
+.html {
+  color: rgb(106, 190, 205);
+}
+.css {
+  color: rgb(62, 84, 163);
+}
+
+.javascript {
+  color: #e13784
+}
+
+.api {
+  color: #85c20a;
+}
+
+.ajax {
+  color: rgb(221, 29, 29);
+}
+
+.php {
+  color: rgb(52, 52, 172);
+}
+
+.bootstrap {
+  color: purple;
+}
+
+.project-item ul li {
+  /* background-color: rebeccapurple; */
+  display: inline;
+  margin-right: 6px;
+  font-weight: bold;
+  padding-left: 0;
+}
+
+
 /* Work Experience
 ----------------------------------*/
 
